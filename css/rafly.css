@@ -251,6 +251,9 @@ button:hover{
         margin-right: 19px;
         text-align: left;
     }
+     form input, textarea{
+        width: 90%;
+    }
 
 }
 
